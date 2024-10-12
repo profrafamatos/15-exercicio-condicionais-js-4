@@ -1,0 +1,15 @@
+{
+  "name": "15---exercicio-condicional-js-4",
+  "version": "1.0.0",
+  "description": "Bem-vindo ao exercício sobre **Condicionais** com JavaScript! 🎉 Siga as instruções abaixo para completar o desafio e testar suas habilidades. 💪",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
